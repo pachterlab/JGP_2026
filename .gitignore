@@ -1,3 +1,8 @@
+# Large file exentsion
+*.pkl
+*.h5ad
+*fitted_mean_variance.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
